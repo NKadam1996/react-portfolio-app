@@ -1,0 +1,15 @@
+[{
+    "role":"Assistant Software Engineer",
+    "organization":"Tata Consultancy Service",
+    "startDate":"Nov, 2017",
+    "endDate":"Jan, 2019",
+    "experience":["Worked as Service Desk executive"],
+    "imageSrc":"history/tcs.png"
+},{
+    "role":"Software Engineer",
+    "organization":"Vistaar Technologies",
+    "startDate":"Jan, 2022",
+    "endDate":"Present",
+    "experience":["Worked as a Backend Developer","Developed optimized and robust features for existing solution"],
+    "imageSrc":"history/vistaar.png"
+}]
