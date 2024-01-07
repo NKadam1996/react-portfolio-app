@@ -1,0 +1,22 @@
+[{
+    "title":"Project A",
+    "imageSrc":"projects/project.png",
+    "description":"Test Project A",
+    "skills":["React","Express","Node"],
+    "demo":"https://www.demo.com/",
+    "source":"https://www.github.com/"
+},{
+    "title":"Project B",
+    "imageSrc":"projects/project.png",
+    "description":"Test Project B",
+    "skills":["React","Express","Node"],
+    "demo":"https://www.demo.com/",
+    "source":"https://www.github.com/"
+},{
+    "title":"Project C",
+    "imageSrc":"projects/project.png",
+    "description":"Test Project C",
+    "skills":["React","Express","Node"],
+    "demo":"https://www.demo.com/",
+    "source":"https://www.github.com/"
+}]
